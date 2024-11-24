@@ -5,4 +5,3 @@ print("and another line added")
 x = 1 + 2 
 y = 5 
 
-result = x * y
