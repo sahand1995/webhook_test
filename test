@@ -1,2 +1,10 @@
 def main():
   print("nair")
+
+
+
+if ___name__ == "__main__":
+  x = 5 
+  y = x 
+  # execute main 
+  main()
