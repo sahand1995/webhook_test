@@ -1,2 +1,7 @@
 def main():
   print("nair")
+
+
+
+if __name__ == "__main__":
+  main()
