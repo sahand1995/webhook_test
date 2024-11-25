@@ -1,14 +1,8 @@
-def calculate_sum(a, b):
-    result = a + b
-    return result
+import pandas as pd
 
+# Read data from a CSV file
+data = pd.read_csv('data.csv')
 
-
-def calculate_sum(a, b):
-    result = a + b
-    return result
-
-
-def calculate_sum_2(a, b):
-    result = a + b
-    return result
+# Perform basic analysis
+mean = data['column_name'].mean()
+print(f"Mean: {mean}")
