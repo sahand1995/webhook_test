@@ -6,3 +6,7 @@ data = pd.read_csv('data.csv')
 # Perform basic analysis
 mean = data['column_name'].mean()
 print(f"Mean: {mean}")
+
+# Perform basic analysis
+mean = data['column_name'].mean()
+print(f"Mean: {mean}")
