@@ -10,3 +10,8 @@ print(f"Mean: {mean}")
 # Perform basic analysis
 mean = data['column_name'].mean()
 print(f"Mean: {mean}")
+
+
+# Perform basic analysis
+mean = data['column_name'].mean()
+print(f"Mean: {mean}")
